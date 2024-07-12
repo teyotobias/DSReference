@@ -74,3 +74,13 @@ reversed_list = list1[::-1]
 
 # reversing a list in place:
 list1.reverse() # [3,2,1]
+
+'''
+Common Problems/Patterns
+Searching and Sorting: Implementing algorithms like binary search, quicksort, mergesort, etc.
+Sliding Window: Finding subarrays with specific properties, such as the maximum sum subarray.
+Two Pointer Technique: Solving problems involving pairs or triplets with specific properties (e.g., two-sum, three-sum).
+Greedy Algorithms: Finding the optimal solution step-by-step (e.g., interval scheduling).
+Dynamic Programming: Problems where you store results of subproblems to avoid redundant work (e.g., longest increasing subsequence).
+Matrix Manipulation: Problems involving 2D arrays, such as rotating a matrix or finding the largest region.
+'''
